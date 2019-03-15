@@ -1,0 +1,10 @@
+{
+    "token": "NDYxODk4NTUxMTM2NDg1Mzg4.D2XYnQ.oXDll9z-4gfHiOkGQmPGxeFRP3Y",
+    "prefix": "p!",
+    "logsChannel": "logs",
+
+    "activity": {
+        "streaming": false,
+        "game": "p!help | p!setup"
+    }
+}
